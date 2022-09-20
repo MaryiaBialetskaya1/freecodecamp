@@ -8,3 +8,5 @@
   return new Date();
 };
  */
+
+const magic = () => new Date();
